@@ -1342,7 +1342,7 @@ body.light hr.separator {
 
 	.main-img-mobile {
 		margin: 0 auto 25px;
-		background-image: url('/img/img-mobile.jpg');
+		background-image: url('../img/img-mobile.jpg');
 		background-size: cover;
 		height: 270px;
 		width: 270px;
